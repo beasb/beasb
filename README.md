@@ -1,16 +1,36 @@
-### Hi there 👋
+Olá! Me chamo Beatriz, e sou estudante de Desenvolvedor Full Stack javascript. Estou ingressando na carreira de programação e aqui disponibilizo os meus materiais de estudo e aperfeiçoamento pessoal.
 
-<!--
-**beasb/beasb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠 Habilidades:
 
-Here are some ideas to get you started:
+HTML 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+CSS 
+
+Javascript 
+
+React 
+
+Node.js
+
+Outras Informações:
+
+👩‍💻 Estudo atualmente no Senac Largo Treze
+
+🧠 HTML + CSS + Javascript
+
+👯‍♀️ Procuro colaborar com meus resultados e exercícios
+
+🤔 Procuro ajuda de todos que puderem
+
+💬 Me pergunte sobre programação e desenvolvimentos de sistemas
+
+📫 Como entrar em contato comigo - beatriz.sborges4@senacsp.edu.br
+
+😄 Pronomes - Ela/Dela
+
+
+🔗 Links
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/beasb) 
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
