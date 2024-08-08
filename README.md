@@ -8,29 +8,26 @@ CSS
 
 Javascript 
 
-React 
+React.js
+
+Vite.js
 
 Node.js
 
-Outras Informações:
+SQL
 
-👩‍💻 Estudo atualmente no Senac Largo Treze
+MariaDB
 
-🧠 HTML + CSS + Javascript
+MongoDB
 
-👯‍♀️ Procuro colaborar com meus resultados e exercícios
 
-🤔 Procuro ajuda de todos que puderem
 
-💬 Me pergunte sobre programação e desenvolvimentos de sistemas
 
 📫 Como entrar em contato comigo - beatriz.sborges4@senacsp.edu.br
-
-😄 Pronomes - Ela/Dela
 
 
 🔗 Links
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/beasb) 
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-s-borges-34305a307)
