@@ -1,29 +1,31 @@
-Olá! Me chamo Beatriz, e sou estudante de Desenvolvedor Full Stack javascript. Estou ingressando na carreira de programação e aqui disponibilizo os meus materiais de estudo e aperfeiçoamento pessoal.
+ Olá! Meu nome é Beatriz e sou desenvolvedora full stack especializada em dados. Estou sempre buscando aprimoramento pessoal e
+ profissional para oferecer soluções ainda mais efetivas e inovadoras. Meu objetivo é entrar no mercado de trabalho utilizando as habilidades
+ que desenvolvi até aqui e aprimorá-las.
 
 🛠 Habilidades:
 
-HTML 
+- HTML e CSS 
 
-CSS 
+- Javascript 
 
-Javascript 
+- React.js
 
-React.js
+- Vite.js
 
-Vite.js
+- Node
 
-Node.js
+- SQL
 
-SQL
+- MariaDB
 
-MariaDB
+- MongoDB
 
-MongoDB
+- Power Bi
 
+- Power Query
 
+- Excel
 
-
-📫 Como entrar em contato comigo - beatriz.sborges4@senacsp.edu.br
 
 
 🔗 Links
