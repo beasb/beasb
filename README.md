@@ -14,6 +14,8 @@
 
 - Node
 
+- Java
+
 - SQL
 
 - MariaDB
