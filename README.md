@@ -2,12 +2,8 @@
 Estou sempre buscando aprimoramento pessoal e profissional para oferecer soluções ainda mais efetivas e inovadoras. Meu objetivo é entrar no mercado de trabalho utilizando as habilidades
  que desenvolvi até aqui e aprimorá-las, se houver alguma oportunidade em que eu possa colaborar, adoraria discutir!
 
-
- <a href="https://github.com/beasb">
-  <img height=200 width="42%" align="center" src="https://github-readme-stats.vercel.app/api?username=beasb&theme=aura"" />
-</a>
 <a href="https://github.com/beasb">
-  <img height=200 width="42%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=beasb&layout=compact&langs_count=8&card_width=320&theme=aura" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=beasb&layout=compact&langs_count=8&card_width=320&theme=aura" />
 </a>
 
 <div>
