@@ -3,7 +3,7 @@ Estou sempre buscando aprimoramento pessoal e profissional para oferecer soluç�
  que desenvolvi até aqui e aprimorá-las, se houver alguma oportunidade em que eu possa colaborar, adoraria discutir!
 
 <a href="https://github.com/beasb">
-  <img height=200 width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=beasb&theme=aura"" />
+  <img height=200 width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=beasb&theme=aura&rank_icon=github"" />
 </a>
 <a href="https://github.com/beasb">
   <img height=200 width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=beasb&layout=compact&langs_count=8&card_width=320&theme=aura" />
